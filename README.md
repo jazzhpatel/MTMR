@@ -102,7 +102,7 @@ The pre-installed configuration contains less or more than you'll probably want,
 - appleScriptTitledButton
 - shellScriptTitledButton
 
-## Gestures
+## Gestures 👆
 
 ### Default Gestures
 
